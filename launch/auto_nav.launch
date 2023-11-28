@@ -7,7 +7,7 @@
 
    <include file="$(find auto_nav)/src/leo_nav/launch/navigation.launch"/>
 
-   <include file="$(find auto_nav)src/m-explore/explore/launch/explore.launch"/>
+   <include file="$(find explore_lite)/launch/explore.launch"/>
 
 
 <!-- 
