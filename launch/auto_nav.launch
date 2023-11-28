@@ -6,7 +6,7 @@
 
    <include file="$(find leo_nav)/launch/navigation.launch"/>
 
-   <include file="$(find explore_lite)/launch/explore.launch)">
+   <include file="$(find explore_lite)/launch/explore.launch"/>
 
 
 <!-- 
