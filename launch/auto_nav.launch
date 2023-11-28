@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <launch>
 
-   <include file="$(find auto_nav)/src/leo_nav/launch/gmapping.launch" />
+   <include file="$(find auto_nav)/src/leo_nav/launch/odometry.launch" />
    
    <include file="$(find auto_nav)/src/leo_nav/launch/gmapping.launch" />
 
